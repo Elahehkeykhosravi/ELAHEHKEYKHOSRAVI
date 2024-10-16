@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elaheh Keykhosravi</h1>
-<h3 align="center">Hi! I'm Elaheh marketer turned coder, diving into React and JavaScript. Let's connect!</h3>
+
 
 - 🌱 I’m currently learning **React, Javascript**
 
